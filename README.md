@@ -1,6 +1,6 @@
 # BearingFaultDetection
 
-This code is for Bearing Faul Detection competition in DC platform. 
+This code is for Bearing Faul Detection competition in DC platform. Rank 40/1388.
 
 Please see offical website: https://challenge.datacastle.cn/v3/cmptDetail.html?id=248
 
